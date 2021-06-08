@@ -1,0 +1,1 @@
+2021/06/08 17:02:46 error :  cannot divide any value with zero
